@@ -1,0 +1,12 @@
+{
+  "name": "timesheet",
+  "displayName": "timesheet",
+  "expo": {
+    "name": "timesheet",
+    "slug": "timesheet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
